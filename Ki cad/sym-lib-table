@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Termocoppia-rescue)(type Legacy)(uri ${KIPRJMOD}/Termocoppia-rescue.lib)(options "")(descr ""))
+)
